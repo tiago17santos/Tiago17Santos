@@ -4,7 +4,7 @@
 
 <!-- **tiago17santos/Tiago17Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[Profile views](http://hits.dwyl.com/tiago17santos/Tiago17Santos)
+[![Profile views](http://hits.dwyl.com/tiago17santos/Tiago17Santos.svg)](http://hits.dwyl.com/tiago17santos/Tiago17Santos)
 
 
 - 🔭 I’m currently working on [SigCorp](https://sigcorp.com.br/)
