@@ -8,9 +8,9 @@
 
 
 - 🔭 I’m currently working on [SigCorp](https://sigcorp.com.br/)
-- 🌱 I’m currently learning  React.Js and React Native, TypeScript, MongoDb.
-- 🤔 I’m looking for help with React.Js and Docker
-- 💬 Ask me about JavaScript
+- 🌱 I’m currently learning  React.Js and React Native, Node.Js and TypeScript.
+- 🤔 I’m looking for help with React.Js and React Native
+- 💬 Ask me about universe technology
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJs logo" title="ReactJs" height="25" />&nbsp; 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.Js logo" title="React.Js" height="25" />&nbsp; 
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
