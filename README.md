@@ -6,11 +6,12 @@
 
 [![Profile views](http://hits.dwyl.com/tiago17santos/Tiago17Santos.svg)](http://hits.dwyl.com/tiago17santos/Tiago17Santos)
 
+## I'm a future Full-Stack Developer, currently enthusiastic about JavaScript stacks and others techs
 
 - 🔭 I’m currently working on [SigCorp](https://sigcorp.com.br/)
 - 🌱 I’m currently learning  React.Js and React Native, Node.Js and TypeScript.
 - 🤔 I’m looking for help with React.Js and React Native
-- 💬 Ask me about universe technology
+- 💬 Ask me about universe technology, memes, anything that interests you.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
