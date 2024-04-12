@@ -6,9 +6,9 @@
 
 [![Profile views](http://hits.dwyl.com/tiago17santos/Tiago17Santos.svg)](http://hits.dwyl.com/tiago17santos/Tiago17Santos)
 
-## I'm a future Full-Stack Developer, currently enthusiastic about JavaScript stacks and others techs
+## I'm a future Developer, currently enthusiastic about Python stacks and others techs
 
-- 🌱 I’m currently learning  PHP, Laravel
+- 🌱 I’m currently learning Data Science
 - 🤔 I’m looking for help with Node.Js Laravel
 - 💬 Ask me about universe technology, memes, anything that interests you.
 
