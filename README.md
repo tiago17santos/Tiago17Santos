@@ -9,7 +9,7 @@
 ## I'm a future Developer, currently enthusiastic about Python stacks and others techs
 
 - 🌱 I’m currently learning Data Science
-- 🤔 I’m looking for help with Node.Js Laravel
+- 🤔 I’m looking for help with Python, R, BI
 - 💬 Ask me about universe technology, memes, anything that interests you.
 
 <h3 align="left">Connect with me:</h3>
@@ -34,5 +34,10 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQLServer logo" title="SQLServer" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"  alt="git logo" title="git" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"  alt="git logo" title="git" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"  alt="git logo" title="git" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"  alt="git logo" title="git" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"  alt="git logo" title="git" height="25" />&nbsp;
 </p>
 
