@@ -31,10 +31,10 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQLServer logo" title="SQLServer" height="25" />&nbsp;
 
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"  alt="git logo" title="git" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"  alt="git logo" title="git" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"  alt="git logo" title="git" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"  alt="git logo" title="git" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"  alt="git logo" title="git" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"  alt="git logo" title="git" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"  alt="git logo" title="git" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"  alt="git logo" title="git" height="25" />&nbsp;
