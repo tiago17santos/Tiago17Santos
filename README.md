@@ -9,7 +9,7 @@
 ## I'm a future Developer, currently enthusiastic about Python stacks and others techs
 
 - 🌱 I’m currently learning Data Science
-- 🤔 I’m looking for help with Python, R, BI
+- 🤔 I’m looking for help with Python, R, BI, ML
 - 💬 Ask me about universe technology, memes, anything that interests you.
 
 <h3 align="left">Connect with me:</h3>
