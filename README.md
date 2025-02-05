@@ -6,7 +6,7 @@
 
 [![Profile views](http://hits.dwyl.com/tiago17santos/Tiago17Santos.svg)](http://hits.dwyl.com/tiago17santos/Tiago17Santos)
 
-## I'm a future Developer, currently enthusiastic about Python stacks and others techs
+## I'm a future Developer, currently enthusiastic about Java and Python stacks and others techs
 
 - 🌱 I’m currently learning Data Science
 - 🤔 I’m looking for help with Java, Python, BI
